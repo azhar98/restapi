@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb+srv://azhar_test:Cycg2QSU4YEcypyc@cluster0.tsltk.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "secret": "azhar"
+}
